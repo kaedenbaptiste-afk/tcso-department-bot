@@ -1,0 +1,12 @@
+{
+  "name": "tcso-department-bot",
+  "version": "1.0.0",
+  "description": "TCSO Department Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
